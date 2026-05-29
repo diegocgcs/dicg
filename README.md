@@ -1,4 +1,3 @@
-# dicg
 <html>
     <body>
         <p>Hello world!</p>
